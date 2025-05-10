@@ -2,11 +2,11 @@
 
    "AdsController": {
 
-    "BannerNetwork"          : "yandex",
-  "InterstitialNetwork"    : "yandex",
-  "InterstitialNetworkHome": "yandex",
-  "RewardNetwork"          : "yandex",
-  "NativeNetwork"          : "yandex",
+      "YandexBanner"          : "R-M-13514228-2",
+      "YandexInterstitial"    : "R-M-13514228-1",
+      "YandexInterstitialHome": "R-M-13514228-1",
+      "YandexReward"          : "demo-rewarded-yandex",
+      "YandexNative"          : "demo-native-app-yandex"
     
     "AdInterval"          : 4,
     "NativeAdRow"         : 3,
