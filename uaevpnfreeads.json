@@ -2,7 +2,7 @@
   "AdsController": {
 
     "AdInterval": 1,
-    "NativeAdRow": 1,
+    "NativeAdRow": 2,
 
     "AdPlacement": {
       "HuaweiAppId": "113526403",
