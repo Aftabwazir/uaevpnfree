@@ -12,10 +12,11 @@
       "HuaweiBanner"          : "testw6vs28auh3",
       "HuaweiInterstitial"    : "teste9ih9j0rc3",
       "HuaweiInterstitialHome": "teste9ih9j0rc3",
-      "HuaweiInterstitialHome": "teste9ih9j0rc3",
+      "HuaweiInterstitialExit": "teste9ih9j0rc3",
       "HuaweiReward"          : "testx9dtjwj8hp",
       "HuaweiSplash"          : "testq6zq98hecj",
       "HuaweiNative"          : "testu7m3hc4gvm"
+       "HuaweiInterstitialROL": "testy3cglm3pj0"
     
     }
    }   
