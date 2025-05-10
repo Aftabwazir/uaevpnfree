@@ -2,46 +2,20 @@
 
    "AdsController": {
 
-      "YandexBanner"          : "R-M-13514228-2",
-      "YandexInterstitial"    : "R-M-13514228-1",
-      "YandexInterstitialHome": "R-M-13514228-1",
-      "YandexReward"          : "demo-rewarded-yandex",
-      "YandexNative"          : "demo-native-app-yandex"
+ 
+    "AdInterval"          : 2,
+    "NativeAdRow"         : 2,
+
     
-    "AdInterval"          : 4,
-    "NativeAdRow"         : 3,
-    "ShowPaydialogtime"   : 30,
-
     "AdPlacement": {
-
-      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
-      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
-      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
-      
-      
-      "ApplovinKey"             : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
-      "ApplovinBanner"          : "da17eff31ae69f15",
-      "ApplovinInterstitial"    : "98f6a586ed642919",
-      "ApplovinInterstitialHome": "98f6a586ed642919",
-      "ApplovinReward"          : "98f6a586ed642919",
-      "ApplovinNative"          : "98f6a586ed642919",
-
-      "HuaweiAppId"           : "",
+      "HuaweiAppId"           : "110502909",
       "HuaweiBanner"          : "testw6vs28auh3",
       "HuaweiInterstitial"    : "teste9ih9j0rc3",
       "HuaweiInterstitialHome": "teste9ih9j0rc3",
       "HuaweiReward"          : "testx9dtjwj8hp",
-      "HuaweiNative"          : "testu7m3hc4gvm",
-      
-      "YandexBanner"          : "R-M-13514228-2",
-      "YandexInterstitial"    : "R-M-13514228-1",
-      "YandexInterstitialHome": "R-M-13514228-1",
-      "YandexReward"          : "demo-rewarded-yandex",
-      "YandexNative"          : "demo-native-app-yandex"
-
+      "HuaweiSplash"          : "",
+      "HuaweiNative"          : "testu7m3hc4gvm"
+    
     }
-
-  },
-  
+   }   
+}
