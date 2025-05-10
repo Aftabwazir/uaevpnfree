@@ -1,17 +1,6 @@
 {
- 
-  "AppRedirect": {
-    "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C113526403"
-  },
-  
-  
-  
-  
+
    "AdsController": {
-
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-
 
     "BannerNetwork"          : "yandex",
   "InterstitialNetwork"    : "yandex",
