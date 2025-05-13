@@ -1,18 +1,17 @@
 {
   "AdsController": {
-
     "AdInterval": 1,
     "NativeAdRow": 2,
 
     "AdPlacement": {
-      "HuaweiAppId": "113526403",
-      "HuaweiBanner": "",
-      "HuaweiInterstitial": "",
-      "HuaweiInterstitialHome": "",
-      "HuaweiInterstitialExit": "",
-      "HuaweiReward": "",
-      "HuaweiSplash": "",
-      "HuaweiNative": ""
+      "YandexAppId": "15459566",
+      "YandexBanner": "R-M-15459566-1",
+      "YandexInterstitial": "R-M-15459566-2",
+      "YandexInterstitialHome": "R-M-15459566-2",
+      "YandexInterstitialExit": "R-M-15459566-2",
+      "YandexReward": "R-M-15459566-4",
+      "YandexSplash": "R-M-15459566-5",
+      "YandexNative": "R-M-15459566-3"
     }
   }
 }
