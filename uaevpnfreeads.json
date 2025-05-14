@@ -5,10 +5,10 @@
 
     "AdPlacement": {
       "YandexAppId": "15459566",
-      "YandexBanner": "R-M-15459566-1",
-      "YandexInterstitial": "R-M-15459566-2",
-      "YandexInterstitialHome": "R-M-15459566-2",
-      "YandexInterstitialExit": "R-M-15459566-2",
+      "YandexBanner": "demo-banner-yandex",
+      "YandexInterstitial": "demo-interstitial-yandex",
+      "YandexInterstitialHome": "demo-interstitial-yandex",
+      "YandexInterstitialExit": "demo-interstitial-yandex",
       "YandexReward": "R-M-15459566-4",
       "YandexSplash": "R-M-15459566-5",
       "YandexNative": "R-M-15459566-3"
