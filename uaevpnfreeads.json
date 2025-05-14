@@ -2,16 +2,15 @@
   "AdsController": {
     "AdInterval": 1,
     "NativeAdRow": 2,
-
     "AdPlacement": {
-      "YandexAppId": "15459566",
-      "YandexBanner": "demo-banner-yandex",
-      "YandexInterstitial": "demo-interstitial-yandex",
-      "YandexInterstitialHome": "demo-interstitial-yandex",
-      "YandexInterstitialExit": "demo-interstitial-yandex",
-      "YandexReward": "R-M-15459566-4",
-      "YandexSplash": "R-M-15459566-5",
-      "YandexNative": "R-M-15459566-3"
+      "AppLovinAppId": "test-app-id",
+      "AppLovinBanner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "AppLovinInterstitial": "4f117153f5c24fa6a3a92b818a5eb630",
+      "AppLovinInterstitialHome": "4f117153f5c24fa6a3a92b818a5eb630",
+      "AppLovinInterstitialExit": "4f117153f5c24fa6a3a92b818a5eb630",
+      "AppLovinReward": "8c8e4c3d186f4aefa4a34f43a0d7f94f",
+      "AppLovinMREC": "df1d0d5e37c24d8fbc2c3c3a57a1c022",
+      "AppLovinNative": "your-native-ad-unit-id"
     }
   }
 }
