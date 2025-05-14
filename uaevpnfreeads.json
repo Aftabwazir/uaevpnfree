@@ -3,14 +3,14 @@
     "AdInterval": 1,
     "NativeAdRow": 2,
     "AdPlacement": {
-      "AppLovinAppId": "test-app-id",
-      "AppLovinBanner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "AppLovinInterstitial": "4f117153f5c24fa6a3a92b818a5eb630",
-      "AppLovinInterstitialHome": "4f117153f5c24fa6a3a92b818a5eb630",
+      "AppLovinAppId": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "AppLovinBanner": "da17eff31ae69f15",
+      "AppLovinInterstitial": "98f6a586ed642919",
+      "AppLovinInterstitialHome": "98f6a586ed642919",
       "AppLovinInterstitialExit": "4f117153f5c24fa6a3a92b818a5eb630",
-      "AppLovinReward": "8c8e4c3d186f4aefa4a34f43a0d7f94f",
+      "AppLovinReward": "98f6a586ed642919",
       "AppLovinMREC": "df1d0d5e37c24d8fbc2c3c3a57a1c022",
-      "AppLovinNative": "your-native-ad-unit-id"
+      "AppLovinNative": "98f6a586ed642919"
     }
   }
 }
