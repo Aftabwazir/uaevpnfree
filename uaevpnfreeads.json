@@ -1,20 +1,16 @@
 {
-
-   "AdsController": {
-
- 
-    "AdInterval"          : 1,
-    "NativeAdRow"         : 2,
+  "AdsController": {
+    "AdInterval": 2,
+    "NativeAdRow": 2,
 
     "AdPlacement": {
-      "HuaweiAppId"           : "113526403",
-      "HuaweiBanner"          : "k3jg22617n",
-      "HuaweiInterstitial"    : "d90mrbu5h9",
-      "HuaweiInterstitialHome": "x37wrv0r7l",
-      "HuaweiReward"          : "h484qwkuov",
-      "HuaweiSplash"          : "q5oxhxfl28",
-      "HuaweiNative"          : "f7kp33u6bn"
-    
+      "AdMobAppId"           : "ca-app-pub-3940256099942544~3347511713",
+      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
+      "AdMobSplash"          : "ca-app-pub-3940256099942544/3419835294",
+      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110"
     }
-   }   
+  }
 }
