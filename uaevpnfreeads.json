@@ -2,7 +2,7 @@
   "AdsController": {
     "AdNetwork": "Huawei",
     "AdInterval": 1,
-    "NativeAdRow": 1,
+    "NativeAdRow": 2,
 
     "AdPlacement": {
       "HuaweiAppId": "testx9dtjwj8hp",
@@ -14,3 +14,4 @@
     }
   }
 }
+
