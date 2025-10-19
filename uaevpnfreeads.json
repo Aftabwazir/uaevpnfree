@@ -6,11 +6,10 @@
 
     "AdPlacement": {
       "AdMobAppId": "ca-app-pub-8591445925577413~1416267527",
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial": "ca-app-pub-8591445925577413/1446173212",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
 
       "HuaweiAppId": "testx9dtjwj8hp",
-      "HuaweiBanner": "",
+      "HuaweiBanner": "testw6vs28auh3",
       "HuaweiInterstitial": "",
       "HuaweiReward": "testx9dtjwj8hp",
       "HuaweiSplash": "testq6zq98hecj",
@@ -18,6 +17,7 @@
     }
   }
 }
+
 
 
 
