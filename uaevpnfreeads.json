@@ -1,7 +1,7 @@
 {
   "AdsController": {
     "AdNetwork": "Hybrid",
-    "AdInterval": 1,
+    "AdInterval": 2,
     "NativeAdRow": 2,
 
     "AdPlacement": {
@@ -17,3 +17,4 @@
     }
   }
 }
+
