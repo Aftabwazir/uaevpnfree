@@ -1,17 +1,19 @@
 {
   "AdsController": {
-    "AdNetwork": "Huawei",
+    "AdNetwork": "Hybrid",
     "AdInterval": 1,
     "NativeAdRow": 2,
 
     "AdPlacement": {
+      "AdMobAppId": "ca-app-pub-3940256099942544~3347511713",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+
       "HuaweiAppId": "testx9dtjwj8hp",
       "HuaweiBanner": "testw6vs28auh3",
-      "HuaweiInterstitial": "testb4znbuh3n2",
+      "HuaweiInterstitial": "",
       "HuaweiReward": "testx9dtjwj8hp",
       "HuaweiSplash": "testq6zq98hecj",
       "HuaweiNative": "testu7m3hc4gvm"
     }
   }
 }
-
