@@ -5,7 +5,7 @@
     "NativeAdRow": 2,
 
     "AdPlacement": {
-      "AdMobAppId": "ca-app-pub-3940256099942544~3347511713",
+      "AdMobAppId": "ca-app-pub-8591445925577413~1416267527",
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial": "ca-app-pub-8591445925577413/1446173212",
 
@@ -18,6 +18,7 @@
     }
   }
 }
+
 
 
 
