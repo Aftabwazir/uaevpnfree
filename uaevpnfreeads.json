@@ -1,7 +1,7 @@
 {
   "AdsController": {
-    "AdInterval": 2,
-    "NativeAdRow": 2,
+    "AdInterval": 1,
+    "NativeAdRow": 1,
 
     "AdPlacement": {
       "AdMobAppId"           : "ca-app-pub-3940256099942544~3347511713",
