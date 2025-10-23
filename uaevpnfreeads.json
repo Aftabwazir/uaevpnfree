@@ -6,17 +6,16 @@
 
     "AdPlacement": {
       "AdMobAppId": "ca-app-pub-8591445925577413~1416267527",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-
       "HuaweiAppId": "113526403",
       "HuaweiBanner": "i8ew8ycxd6",
-      "HuaweiInterstitial": "",
+      "HuaweiInterstitial": "q31iwl9j6a",
       "HuaweiReward": "p7tvv0fo83",
       "HuaweiSplash": "testq6zq98hecj",
       "HuaweiNative": "a0zn0oiz07"
     }
   }
 }
+
 
 
 
